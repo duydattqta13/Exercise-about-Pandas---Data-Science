@@ -1,19 +1,12 @@
 # duydattqta13.github.io
 ## About / Synopsis
 
-* What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support
-
 See real examples:
 
-* <https://github.com/nuxeo/nuxeo/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-drive/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-sdk-ios/blob/master/README.md>
-
+* <https://github.com/duydattqta13/duydattqta13.github.io/blob/main/Gradient%20Descent>
 ## Table of contents
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
+Use for instance <https://github.com/BenTumoniacXT/RE201_IT012-Lab6>:
 
 > * [Title / Repository Name](#title--repository-name)
 >   * [About / Synopsis](#about--synopsis)
@@ -31,14 +24,9 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
 >   * [Contributing / Reporting issues](#contributing--reporting-issues)
 >   * [License](#license)
->   * [About Nuxeo](#about-nuxeo)
+>   * [About duydat](#duydatduydat)
 
 ## Installation
-
-Sample:
-
-* From the Nuxeo Marketplace: install [the Sample Nuxeo Package](https://connect.nuxeo.com/nuxeo/site/marketplace/package/nuxeo-sample).
-* From the command line: `nuxeoctl mp-install nuxeo-sample`
 
 ## Usage
 
@@ -47,8 +35,6 @@ Sample:
 ### Features
 
 ## Code
-
-[![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=/nuxeo/addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/nuxeo/job/addons_nuxeo-sample-project-master/)
 
 ### Content
 
